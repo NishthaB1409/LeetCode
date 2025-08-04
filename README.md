@@ -1,0 +1,2 @@
+# LeetCode
+Focus, fight, finish.
