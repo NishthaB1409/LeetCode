@@ -14,5 +14,14 @@ Focus, fight, finish.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0002-add-two-numbers) |
 | [3830-find-closest-person](https://github.com/NishthaB1409/LeetCode/tree/master/3830-find-closest-person) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
