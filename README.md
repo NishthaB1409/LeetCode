@@ -7,6 +7,7 @@ Focus, fight, finish.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ Focus, fight, finish.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
