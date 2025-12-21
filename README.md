@@ -8,10 +8,12 @@ Focus, fight, finish.
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,12 @@ Focus, fight, finish.
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
