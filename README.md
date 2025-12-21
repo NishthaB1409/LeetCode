@@ -1,5 +1,5 @@
 # LeetCode
-Focus, fight, finish.
+Consistency is key.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
