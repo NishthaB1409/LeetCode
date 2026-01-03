@@ -9,6 +9,7 @@ Consistency is key.
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NishthaB1409/LeetCode/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -20,6 +21,7 @@ Consistency is key.
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -41,6 +43,7 @@ Consistency is key.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
@@ -73,4 +76,12 @@ Consistency is key.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
