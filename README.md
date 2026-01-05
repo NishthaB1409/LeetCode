@@ -10,6 +10,7 @@ Consistency is key.
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
+| [0057-insert-interval](https://github.com/NishthaB1409/LeetCode/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NishthaB1409/LeetCode/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
