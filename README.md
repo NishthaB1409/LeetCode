@@ -33,6 +33,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3830-find-closest-person](https://github.com/NishthaB1409/LeetCode/tree/master/3830-find-closest-person) |
