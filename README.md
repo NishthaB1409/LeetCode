@@ -18,6 +18,7 @@ Consistency is key.
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
@@ -99,4 +100,16 @@ Consistency is key.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
