@@ -21,6 +21,7 @@ Consistency is key.
 | [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Consistency is key.
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +114,8 @@ Consistency is key.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
