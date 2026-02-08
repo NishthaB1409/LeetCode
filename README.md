@@ -7,6 +7,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
@@ -93,6 +94,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -118,4 +120,8 @@ Consistency is key.
 |  |
 | ------- |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
