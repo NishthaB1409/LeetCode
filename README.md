@@ -130,4 +130,8 @@ Consistency is key.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/NishthaB1409/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/NishthaB1409/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
