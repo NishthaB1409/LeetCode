@@ -30,6 +30,7 @@ Consistency is key.
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NishthaB1409/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ Consistency is key.
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
@@ -97,6 +99,7 @@ Consistency is key.
 | ------- |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
