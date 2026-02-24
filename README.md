@@ -11,6 +11,7 @@ Consistency is key.
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/NishthaB1409/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NishthaB1409/LeetCode/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@ Consistency is key.
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NishthaB1409/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
@@ -99,6 +102,7 @@ Consistency is key.
 | ------- |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
