@@ -23,6 +23,7 @@ Consistency is key.
 | [0414-third-maximum-number](https://github.com/NishthaB1409/LeetCode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Hash Table
@@ -38,6 +39,7 @@ Consistency is key.
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
 |  |
@@ -158,4 +160,8 @@ Consistency is key.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NishthaB1409/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
