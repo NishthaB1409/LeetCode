@@ -15,6 +15,7 @@ Consistency is key.
 | [0057-insert-interval](https://github.com/NishthaB1409/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NishthaB1409/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaB1409/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NishthaB1409/LeetCode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/NishthaB1409/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -32,6 +33,7 @@ Consistency is key.
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaB1409/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NishthaB1409/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
@@ -164,4 +166,8 @@ Consistency is key.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NishthaB1409/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
