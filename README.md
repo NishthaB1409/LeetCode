@@ -38,6 +38,7 @@ Consistency is key.
 | [0202-happy-number](https://github.com/NishthaB1409/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NishthaB1409/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/NishthaB1409/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/NishthaB1409/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,6 +114,7 @@ Consistency is key.
 | [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/NishthaB1409/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/NishthaB1409/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
