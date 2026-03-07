@@ -42,6 +42,7 @@ Consistency is key.
 | [0347-top-k-frequent-elements](https://github.com/NishthaB1409/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
@@ -116,6 +117,7 @@ Consistency is key.
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NishthaB1409/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Consistency is key.
 | ------- |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NishthaB1409/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,4 +177,8 @@ Consistency is key.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaB1409/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
