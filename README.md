@@ -11,6 +11,7 @@ Consistency is key.
 | [0018-4sum](https://github.com/NishthaB1409/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/NishthaB1409/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/NishthaB1409/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ Consistency is key.
 | ------- |
 | [0001-two-sum](https://github.com/NishthaB1409/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/NishthaB1409/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NishthaB1409/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NishthaB1409/LeetCode/tree/master/0169-majority-element) |
@@ -140,6 +142,7 @@ Consistency is key.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NishthaB1409/LeetCode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/NishthaB1409/LeetCode/tree/master/0463-island-perimeter) |
 ## Sliding Window
 |  |
