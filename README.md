@@ -48,6 +48,7 @@ Consistency is key.
 | [0438-find-all-anagrams-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/NishthaB1409/LeetCode/tree/master/0567-permutation-in-string) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Math
 |  |
@@ -99,6 +100,7 @@ Consistency is key.
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/NishthaB1409/LeetCode/tree/master/0567-permutation-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/NishthaB1409/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -122,6 +124,7 @@ Consistency is key.
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/NishthaB1409/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +153,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/NishthaB1409/LeetCode/tree/master/0567-permutation-in-string) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Trie
 |  |
