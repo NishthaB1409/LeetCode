@@ -27,6 +27,7 @@ Consistency is key.
 | [0496-next-greater-element-i](https://github.com/NishthaB1409/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NishthaB1409/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/NishthaB1409/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ Consistency is key.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NishthaB1409/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/NishthaB1409/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Consistency is key.
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/NishthaB1409/LeetCode/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/NishthaB1409/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2653-sliding-subarray-beauty](https://github.com/NishthaB1409/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Trie
 |  |
@@ -183,6 +186,7 @@ Consistency is key.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NishthaB1409/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/NishthaB1409/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Union-Find
 |  |
 | ------- |
