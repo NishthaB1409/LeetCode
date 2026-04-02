@@ -100,6 +100,7 @@ Consistency is key.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NishthaB1409/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NishthaB1409/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/NishthaB1409/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/NishthaB1409/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/NishthaB1409/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NishthaB1409/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NishthaB1409/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -124,6 +125,7 @@ Consistency is key.
 | [0013-roman-to-integer](https://github.com/NishthaB1409/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NishthaB1409/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/NishthaB1409/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/NishthaB1409/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NishthaB1409/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NishthaB1409/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NishthaB1409/LeetCode/tree/master/0290-word-pattern) |
